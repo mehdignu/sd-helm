@@ -24,4 +24,7 @@ spec:
               memory: 12Gi
           ports:
             - containerPort: 9000
+            - containerPort: 5000
+            - containerPort: 5100
+            - containerPort: 5400
 
